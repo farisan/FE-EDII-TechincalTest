@@ -35,7 +35,7 @@ Setup ENV
 Start the server
 
 ```bash
-  npm run dev
+  npm start
 ```
 
 
@@ -49,5 +49,5 @@ Start the server
 
 Here are some related projects
 
-**to:** [Frontend](https://github.com/farisan/BE-EDII-TechincalTest.git)
+**to:** [Backend](https://github.com/farisan/BE-EDII-TechincalTest.git)
 
